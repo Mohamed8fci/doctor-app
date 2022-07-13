@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "40460900112",
+    "project_id": "doctorapp-12f13",
+    "storage_bucket": "doctorapp-12f13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40460900112:android:3923c838ea533af16ff795",
+        "android_client_info": {
+          "package_name": "com.example.doctor_appointment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40460900112-kab1jud836nfaqkbfe7i0992k5ui2s6h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.doctor_appointment",
+            "certificate_hash": "dd364cc8b0dc42e6e61f1b2197663208191f606c"
+          }
+        },
+        {
+          "client_id": "40460900112-tatgurfdfnh27rft8q2b4dqqstsi51d7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaU1PxmlxJqQh-UtsPJ4i1PVReUWpOWoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40460900112-tatgurfdfnh27rft8q2b4dqqstsi51d7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40460900112:android:8c16393770815cd76ff795",
+        "android_client_info": {
+          "package_name": "com.example.doctor_appointments"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40460900112-tatgurfdfnh27rft8q2b4dqqstsi51d7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaU1PxmlxJqQh-UtsPJ4i1PVReUWpOWoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40460900112-tatgurfdfnh27rft8q2b4dqqstsi51d7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
